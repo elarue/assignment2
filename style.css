@@ -1,0 +1,17 @@
+.firstcolumn{font-style: italic;}
+
+.redtext{color: red;}
+
+.bluetext{color: blue;}
+
+.bluebkg{background: cyan;}
+
+.greenbkg{background: lime;}
+
+dt:hover + dd {background: purple;}
+
+.outer_content{width:75%; margin-top:20px; margin-left:12.5%; margin-right:12.5%; margin-bottom:20px; background: pink;}
+
+.inner_content{width:75%; margin-left:12.5%; margin-right:12.5%; background: lightblue; text-align:center;}
+
+#insert_image{border:solid; border-width:1px; width:100px; height:100px; float:left;}
